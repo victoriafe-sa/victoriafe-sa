@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @victoriafe-sa
 - 🌱 I’m currently learning Java
+- :notebook_with_decorative_cover: I am a student of the systems analysis and development course
 - 😄 Pronouns: she/her
 
 <!---
