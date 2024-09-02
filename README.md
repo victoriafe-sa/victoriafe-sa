@@ -17,6 +17,7 @@
 <div style="display": inline_block><br/>
     <img alig="center" alt = " html5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=60px/>
     <img alig="center" alt = " css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=60px />
+    <img alig="center" alt = " java" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fensinado.com.br%2Fcursos%2Fjava%2F&psig=AOvVaw16OfrBc3VhGR40K712-rYz&ust=1725366103828000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjxj6WhpIgDFQAAAAAdAAAAABAE)" height=60px />
 </div>
 
 <img align=right src="https://media1.tenor.com/m/DM7SdBiQKhEAAAAd/cat-underwater.gif" height=150px >
