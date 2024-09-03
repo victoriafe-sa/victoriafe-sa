@@ -18,8 +18,7 @@
     <img alig="center" alt = " html5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=60px/>
     <img alig="center" alt = " css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=60px />
     <img alig="center" alt = " java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=60px />
-          
-          
+    <img  alig="center" alt = " javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=60px />
 </div>
 
 <img align=right src="https://media1.tenor.com/m/DM7SdBiQKhEAAAAd/cat-underwater.gif" height=150px >
