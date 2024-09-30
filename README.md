@@ -27,8 +27,6 @@
     <img  alig="center" alt = " javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=60px />
 </div>
 
-<img align=right src="https://media1.tenor.com/m/DM7SdBiQKhEAAAAd/cat-underwater.gif" height=150px >
-
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=victoriafe-sa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
  
  [![Victoria github stats](https://bad-apple-github-readme.vercel.app/api?username=victoriafe-sa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
