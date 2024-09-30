@@ -29,10 +29,6 @@
 
 <img align=right src="https://media1.tenor.com/m/DM7SdBiQKhEAAAAd/cat-underwater.gif" height=150px >
 
-<img alig="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriafe-sa&show_icons=true&locale=en&layout=compact&theme=radical" alt="victoriafe-sa" height="150.5"/>
-
-<br>
-
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=victoriafe-sa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
  
  [![Victoria github stats](https://bad-apple-github-readme.vercel.app/api?username=victoriafe-sa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
