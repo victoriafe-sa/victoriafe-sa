@@ -26,6 +26,7 @@
     <img alig="center" alt = " java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=60px />
     <img  alig="center" alt = " javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=60px />
 </div>
+<br>
 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=victoriafe-sa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
  
