@@ -5,10 +5,16 @@
 
 - 🔭 I’m currently studying on SENAC
 - 🌱 I’m currently learning HTML and CSS
+- 🧑🏿‍💻 Work with Figma and Front-End
+- 🧑🏿‍💻 Ask me about Development Sistems
 
 <h3>Contact</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_https.victoriah/)
+<div> 
+  <a href="https://www.linkedin.com/in/victoria-ferreira-521659328/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:victoria.senac.13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/_https.victoriah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 
 <h3>Languages</h3>
@@ -24,28 +30,6 @@
 <img align=right src="https://media1.tenor.com/m/DM7SdBiQKhEAAAAd/cat-underwater.gif" height=150px >
 
 <img alig="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriafe-sa&show_icons=true&locale=en&layout=compact&theme=radical" alt="victoriafe-sa" height="150.5"/>
-
-
-# Olá, eu sou Vi
-- 👨🏿‍🏫 Atualmente trabalho como Docente no Senac DF
-- 🧑🏿‍💻 Work with Figma and Front-End
-- 🧑🏿‍💻 Ask me about Desenvolvimento de Sistemas
-
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  </div>
-  
-  ##
- <div> 
-  <a href="https://www.linkedin.com/in/victoria-ferreira-521659328/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:victoria.senac.13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/_https.victoriah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-</div>
 
 <br>
 
