@@ -33,3 +33,14 @@
  [![Victoria github stats](https://bad-apple-github-readme.vercel.app/api?username=victoriafe-sa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
 [![Victoria Ferreira current streak](https://streak-stats.demolab.com/?user=victoriafe-sa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
+ ### TROPHIES
+ 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=victoriafe-sa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+ <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/victoriafe-sa/count.svg" />
+ </p>
