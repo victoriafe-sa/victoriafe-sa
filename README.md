@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently studying on SENAC
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m learning HTML, CSS and Java Script
 - 🧑🏿‍💻 Work with Figma and Front-End
 - 🧑🏿‍💻 Ask me about Web Development
 
