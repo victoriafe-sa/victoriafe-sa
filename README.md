@@ -6,7 +6,8 @@
 - 🔭 I’m currently studying on SENAC
 - 🌱 I’m learning HTML, CSS and Java Script
 - 🧑🏿‍💻 Work with Figma and Front-End
-- 🧑🏿‍💻 Ask me about Web Development
+- :calling: Ask me about Web Development
+- :computer: I'm an Undergraduate Student of Systems Analysis and Development
 
 <h3>Contact</h3>
 
