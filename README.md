@@ -45,8 +45,3 @@
  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victoriafe-sa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
- <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/victoriafe-sa/count.svg" />
- </p>
