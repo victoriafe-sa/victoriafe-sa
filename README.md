@@ -1,15 +1,18 @@
-# Hi, Victoria here 🧊
-### Too comfortable 💤
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
 
+<p align="left">My name is Victoria and I'm a Full-Stack Developer, from Brazil.</p>
 
-- 🔭 I’m currently studying on SENAC
-- 🌱 I’m learning HTML, CSS and Java Script
-- 📓 I'm learning about Back-end(mysql and node.js)
-- 🧑🏿‍💻 Work with Figma and Front-End
-- :calling: Ask me about Web Development
-- :computer: I'm an Undergraduate Student of Systems Analysis and Development
+###
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs with JavaScript and Java<br>📚 I'm currently learning Back-End Development with Python<br>🎯 Goals: Work with Games Development</p>
+
+###
 <h3>Contact</h3>
 
 <div> 
@@ -18,30 +21,50 @@
     <a href="https://instagram.com/_https.victoriah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+###
+<h2 align="left">I code with</h2>
 
-<h3>Languages</h3>
+###
 
-
-<div style="display": inline_block><br/>
-    <img alig="center" alt="html5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=60px/>
-    <img alig="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=60px />
-    <img alig="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=60px />
-    <img  alig="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=60px />
-    <img  alig="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height=60px/>
-    <img alig="center" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  height=60px/>
-    <img alig="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  height=60px/>        
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-<br>
 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=victoriafe-sa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Victoria github stats](https://bad-apple-github-readme.vercel.app/api?username=victoriafe-sa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
-[![Victoria Ferreira current streak](https://streak-stats.demolab.com/?user=victoriafe-sa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victoriafe-sa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriafe-sa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
- ### TROPHIES
- 
+###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=victoriafe-sa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victoriafe-sa/victoriafe-sa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victoriafe-sa/victoriafe-sa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/victoriafe-sa/victoriafe-sa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
