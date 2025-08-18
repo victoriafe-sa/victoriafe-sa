@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs with JavaScript and Java<br>📚 I'm currently learning Back-End Development with Python<br>🎯 Goals: Work with Games Development</p>
+<p align="left">✨ Creating bugs with JavaScript and Java<br>📚 I'm currently learning Back-End Development with PHP<br>🎯 Goals: Work with Games Development</p>
 
 ###
 <h3>Contact</h3>
