@@ -1,9 +1,9 @@
-<h1 align="left">Olá, eu sou a Victoria! 👋</h1>
+<h1 align="left">Olá, me chamo Victoria! 👋</h1>
 
 ###
 
 <p align="left">
-Sou uma Desenvolvedora Full-Stack baseada no Brasil, apaixonada por tecnologia e em constante aprendizado. Atualmente, estou focada em aprimorar minhas habilidades em Back-End e trilhar meu caminho para o desenvolvimento de jogos.
+Desenvolvedora Full-Stack em constante evolução, com sólido interesse em arquitetura Back-End. Atualmente, dedico meus estudos à especialização em sistemas robustos enquanto trilho meu caminho estratégico para a indústria de Game Development, unindo lógica de programação e criatividade.
 </p>
 
 ###
@@ -63,7 +63,3 @@ Sou uma Desenvolvedora Full-Stack baseada no Brasil, apaixonada por tecnologia e
   </a>
 </div>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/victoriafe-sa/victoriafe-sa/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-</p>
