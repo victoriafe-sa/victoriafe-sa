@@ -40,13 +40,13 @@ Desenvolvedora Full-Stack em constante evolução, com sólido interesse em arqu
 
 ###
 
-<h2 align="left">📊 Estatísticas</h2>
+<!--<h2 align="left">📊 Estatísticas</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victoriafe-sa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriafe-sa&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
 </div>
-
+-->
 ###
 
 <h2 align="left">📫 Vamos nos conectar?</h2>
